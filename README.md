@@ -1,1 +1,1 @@
-# simplify-data-analysis-using-agentic-ai
+# Simplify-Data-Analysis-using-agentic-AI
